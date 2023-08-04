@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.exe
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.deps.json
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.dll
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\bin\Debug\netcoreapp3.1\BasicCodes.pdb
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.dll
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.pdb
+C:\Users\Teju Reddy\source\repos\BasicCodes\BasicCodes\obj\Debug\netcoreapp3.1\BasicCodes.genruntimeconfig.cache
